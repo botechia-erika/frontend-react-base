@@ -11,17 +11,17 @@ function App() {
       <div class="parent">
         <header>
           <h1>API-BRAND</h1>
-          <span>
-            <button>TrackOffers</button>
-            <button>Snippets</button>
-            <button>ToolsAndTips</button>
-            <button>ColabCLUB</button>
-          </span>
+          <nav>
+            <button>Home</button>
+            <button>Comprar</button>
+            <button>Vender</button>
+            <button>Club</button>
+          </nav>
         </header>
         <div class="left-side">
-          <form></form>
+          <h2>Buscar</h2>
         </div>
-        <main>Main Content</main>
+        <main>PRODUTOS</main>
         <div class="right-side">Right Snidebar</div>
         <footer>
           <p>brand name </p>
